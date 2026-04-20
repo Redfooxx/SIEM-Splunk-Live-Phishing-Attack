@@ -24,7 +24,7 @@ On 04/19/2026 16:43:04.563, the first true positive alert came in (Figure 3). A 
 
 <img width="871" height="744" alt="1005b" src="https://github.com/user-attachments/assets/be49526a-90c7-4606-9cd8-b2d55a2f006d" />
 
-*Figure 4: Malcicious attachment - invioce.pdf.lnk*
+*Figure 4: Malicious attachment - invioce.pdf.lnk*
 
 <img width="1618" height="426" alt="image" src="https://github.com/user-attachments/assets/f8c809a1-cd71-49e0-843a-b02056c5a5ad" />
 
@@ -140,7 +140,7 @@ This incident demonstrates a complete end-to-end attack lifecycle, including:
 
 - Initial access (phishing)
 - Command execution (PowerShell)
-- Persistence via reverse shell
+- Remote command execution via reverse shell
 - Internal reconnaissance
 - Data collection from network shares
 - Data staging and cleanup
